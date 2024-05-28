@@ -13,6 +13,14 @@
 
 - 📫 How to reach me **aggarwalpallavi198@gmail.com**
 
+- <h2>:scroll: Certification:</h2>
+
+- [Professional Machine Learning Engineer - Google Cloud Platform](https://www.credly.com/badges/45dc4d77-f8d9-4062-8c0a-653485f29224)
+- [Power BI Data Analyst Associate(PL-300) - Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/PallaviAggarwal-4534/2DE2F47803357A1D?sharingId=E7EFA50626292891)
+- [Associate Cloud Engineer - Google Cloud Platform](https://www.credly.com/badges/f4c64577-6fe3-4634-927f-e7bfa3dd3a27)
+- [Azure Data Engineer Associate(DP-203) - Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/PallaviAggarwal-4534/45A4181453787BFF?sharingId=E7EFA50626292891)
+- Azure Fundamentals(AZ-900) - Microsoft 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
